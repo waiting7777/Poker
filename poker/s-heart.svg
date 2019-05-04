@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>s-heart</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="20.4716499%" y1="20.3265858%" x2="72.9356057%" y2="70.988168%" id="linearGradient-1">
+            <stop stop-color="#FF4A82" offset="0%"></stop>
+            <stop stop-color="#FF004B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="17.3266967%" y1="17.8424654%" x2="67.5599936%" y2="76.0246586%" id="linearGradient-2">
+            <stop stop-color="#FFD5D5" offset="0%"></stop>
+            <stop stop-color="#F41E58" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-199.000000, -152.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero" stroke="url(#linearGradient-2)">
+            <path d="M208.927292,167.703505 C209.121267,167.429482 209.338609,167.15597 209.581915,166.878013 C210.094911,166.291959 210.715209,165.691785 211.580021,164.928111 C212.089217,164.478464 214.173147,162.698715 214.19508,162.679812 C216.559128,160.642392 217.5,158.9122 217.5,157.024988 C217.5,155.147642 216.039111,153.5 213.94229,153.5 C211.686231,153.5 210.263826,154.513266 209.439709,156.490062 L209.073351,157.368838 L208.557843,156.568391 C208.48189,156.450456 208.062749,155.77381 207.93578,155.579756 C206.997618,154.145914 206.099212,153.5 204.545457,153.5 C202.255867,153.5 200.5,155.126535 200.5,157.024988 C200.5,159.186559 201.51371,161.264059 203.457645,162.651596 C205.21301,163.904536 207.595013,166.17095 208.927292,167.703505 Z" id="s-heart"></path>
+        </g>
+    </g>
+</svg>
